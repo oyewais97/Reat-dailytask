@@ -1,0 +1,20 @@
+.navbar {
+    background: rgb(5, 5, 53);
+    height: 80px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-size: 1.2rem;
+  }
+.nav-item {
+    display: flex;
+    align-items: left;
+    height: 80px;
+    display: inline;
+}
+.nav-links {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+   
+  }

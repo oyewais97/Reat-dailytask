@@ -1,0 +1,19 @@
+.card3{
+    background-color: #ebebeb;
+    margin-top: 20vh;
+    border-radius: 8px;
+}
+.form-heading {
+    font-weight: 600;
+
+}
+.first-show-para{
+    margin-top: 10px;
+    font-size: large;
+}
+.show-value{
+    background-color: rgb(115, 152, 153);
+    height: 40vh;
+    border-radius: 5px;
+    margin-top: 10vh;
+}

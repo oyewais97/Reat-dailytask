@@ -1,0 +1,119 @@
+.todo-input{
+    font-size:20px;
+    margin-left: 9vw;
+    border: transparent;
+    border-width:0 ;
+    
+    
+}
+.todo-input:hover{
+    border-color: yellowgreen;
+    shape-outside: linear-gradient(0,5px,0,0);
+    border-width: 25;
+}
+.todo-button{
+    margin-left: 2vw;
+    font-size:22px;
+    border-radius:5px;
+    background-color: rgba(253, 253, 70, 0.89);
+    color:white;
+    border-width: 0;
+    color: black;
+    font-style: normal;
+    
+    
+}
+.todo-button:hover{
+    background-color: cadetblue;
+}
+.main-div-yes{
+    justify-content:center;
+   
+}
+.output-text{
+    font-size:30px;
+    height : 5vh;
+    justify-content: center;
+    align-self: center;
+    font-weight: 600;
+    
+}
+.delete-icon{
+    background-color:rgb(230, 117, 12);
+    font-size:15px;
+    border-radius:5px;
+    color:white;
+    box-shadow: white;
+    justify-content: right;
+    font-weight: 500;
+    border-width: 0;
+    margin-top: 2rem;
+    font-style: normal;
+    margin-left: 9vw;
+    
+}
+.delete-icon:hover{
+    background-color: red;
+    color: black;
+}
+.edit-icon{
+    background-color:rgb(86, 202, 86);
+    font-size:15px;
+    border-radius:5px;
+    color:white;
+    justify-content: center;
+    font-weight: 500;
+    border-width: 0;
+    margin: 8px;
+}
+.edit-icon:hover{
+    background-color: rgb(8, 14, 7);
+
+}
+.main-todolistdive{
+    justify-content: center;
+    margin-left:15vw;
+    margin-top: 20vh;
+    
+    height:100vh;
+    margin-right: 30vw;
+    border-radius: 25px;
+}
+.main-heading{
+    align-self: center;
+    justify-content: center;
+    margin-left: 8vw;
+}
+.complete{
+    background-color: cadetblue;
+    border-radius: 8px;
+    height:10vh;
+    margin-top: 10vh;
+    
+}
+.not-complete{
+    background-color: grey;
+    border-radius: 8px;
+    height: 10vh;
+    margin-top: 10vh;
+}
+.form-check-label{
+    font-weight: 500;
+}
+.edit{
+    margin-left: 39vw;
+    font-size:22px;
+    border-radius:5px;
+    background-color: rgba(253, 253, 70, 0.89);
+    color:white;
+    border-width: 0;
+    color: black;
+    font-style: normal;
+}
+.update{
+    font-size:20px;
+    margin-left: 9vw;
+    border: transparent;
+    border-width:0 ;
+    
+}
